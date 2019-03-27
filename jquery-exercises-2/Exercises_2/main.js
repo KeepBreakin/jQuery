@@ -1,1 +1,3 @@
-// Write your solution here
+$("img").dblclick(function() {
+  $("img").width(500);
+});
